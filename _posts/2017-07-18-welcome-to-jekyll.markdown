@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Diya's Home page!"
 date:   2017-07-18 13:48:08 +0000
 categories: jekyll update
 ---

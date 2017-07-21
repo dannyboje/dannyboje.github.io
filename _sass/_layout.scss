@@ -18,6 +18,7 @@
     margin-bottom: 0;
     float: left;
 
+
     &,
     &:visited {
         color: $grey-color-dark;
@@ -169,6 +170,9 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background: url("../IMG_4553.JPG") no-repeat center center;
+    background-size: cover;
+    height: 800px;
 }
 
 .page-heading {
@@ -201,6 +205,7 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+
 }
 
 .post-title {

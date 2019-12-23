@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Diya and Vinnu Home page!"
-date:   2019-12-23 13:48:08 +0000
-categories: Webpage update
+title:  "Welcome to Diya and Vinny Home page!"
+date:   2017-07-18 13:48:08 +0000
+categories: jekyll update
 ---
 Diya aka Yoganjali is Born on the 4th Nov 2016 to Kunche Yoganand Kumar and Kunche Deepika.
 

@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ♥	♥	♥	 Yoganjali (Diya) ♥	♥	♥
-email: deepikabudhu@gmail.com
+title: ♥	♥	♥	 Yoganjali (Diya) - Vinutnaanjali (Vinny) ♥	♥	♥
+punchline: We love you Diya and Vinny
+email: kumar.kunche@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This page contains all the memories diya ever since she is born.
-  Her Smile makes me smile. Her laugh is infectious. Her heart is
-  pure and true. Above all I love that she is my daughter..♥
+  This page contains all the memories of Diya and Vinny ever since they were born.
+  Their Smile makes us smile. Their laugh is infectious. Their hearts are
+  pure and true. Above all we love that they are our lil ones..♥
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  dannyboje
 
 # Build settings
 markdown: kramdown
